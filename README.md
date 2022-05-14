@@ -1,2 +1,2 @@
-# portfolio
-Portfolio for Artists
+# Portfolio Website
+Portfolio website for Artists
